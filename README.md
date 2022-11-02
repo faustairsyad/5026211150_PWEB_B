@@ -11,5 +11,4 @@ mencopa pull
 test
 
 test 2
-
-sudah saya revisi pak
+coba revisi github
